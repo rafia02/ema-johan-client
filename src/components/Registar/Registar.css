@@ -1,0 +1,19 @@
+.registar-container{
+
+    width: 550px;
+    height: 700px;
+    background: #FFFFFF;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    margin: 0 auto;
+    margin-bottom: 70px;
+}
+
+
+.inp input{
+    border: 1px solid #95A0A7;
+}
+
+.google{
+    border: 1px solid #95A0A7;
+}
